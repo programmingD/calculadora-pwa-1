@@ -1,0 +1,19 @@
+{
+    "name":"Calculadora web / PWA",
+    "short_name":"Calculadora web / PWA",
+    "description":"Calculadora web / PWA",
+    "background_color":"#4f33b0",
+    "theme_color":"#4f33b0",
+    "orientation":"portrait",
+    "display":"standalone",
+    "start_url":"./?utm_source=web_app_manifest",
+    "scope":"./",
+    "lang":"es-MX",
+    "icons":[
+        {
+            "src":"./img/png-clipart-calculator-computer-icons-calculator-electronics-rectangle.png",
+            "sizes":"900x900",
+            "type":"image/png"
+        }
+    ]
+}
